@@ -7,3 +7,5 @@ you will have functionality to send msg to
 3. multiple friends(more like a broadcast msg).
 
 The program is self explainatory & doesn't require further explanation. Enjoy and feel free to customize the existing program and add your own flavours .
+# install package 
+pip install fbmsg.
