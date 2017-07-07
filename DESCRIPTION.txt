@@ -1,0 +1,14 @@
+#imp to note:
+
+#for linux-
+#install fbchat using cmd pip intall fbchat.
+#also for other dependencies run the cmd
+#sudo apt-get install python-dev libxml2-dev libxslt1-dev zlib1g-dev
+
+#for windows -
+#plz switch to linux , it's awesome.
+
+#also suitable python version. this sript is written in python 2
+#deping upon the version of python use input() or raw_input() accordingly .
+
+#def to interact with users.
