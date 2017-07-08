@@ -9,3 +9,4 @@ you will have functionality to send msg to
 The program is self explainatory & doesn't require further explanation. Enjoy and feel free to customize the existing program and add your own flavours .
 # install package 
 pip install fbmsg.
+(for now plz don't use this for now , original script needs to modified.)
